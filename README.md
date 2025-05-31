@@ -12,9 +12,9 @@ Este projeto é composto por 4 APIs com Spring Boot e banco de dados MongoDB. O 
 ## Como rodar o projeto
 
 1. Pré-requisitos:
-   - Java 17+
-   - Maven 3.8+
-   - MongoDB em execução (localhost:27017)
+   - Java 21
+   - Maven 
+   - MongoDB (localhost:27017)
 
 2.  Passos:
    - Clone o repositório;
@@ -25,4 +25,6 @@ Este projeto é composto por 4 APIs com Spring Boot e banco de dados MongoDB. O 
      - Auth API: 8081
      - Animal API: 8082
      - Pessoa API: 8083
-     - Serviço API: 8084.
+     - Serviço API: 8084
+       
+     - Realizar os teste pelo Swagger ou Postman
