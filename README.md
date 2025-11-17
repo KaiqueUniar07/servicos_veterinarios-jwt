@@ -4,10 +4,15 @@ Este projeto é composto por 4 APIs com Spring Boot e banco de dados MongoDB. O 
 
 # Grupo:
 ● RA: 04722-035 / Éric D’Andrea Rapatão
+
 ● RA: 04722-083 / Gerônimo Van-Dick Rizzo Bortolozzo
+
 ● RA: 04722-039 / Kaique Rapatoni Santana
+
 ● RA: 04722-025 / Murilo Cabral Paulino
+
 ● RA: 04722-070 / Rafael Rogério Mariano Eduardo
+
 ● RA: 04722-065 / Vinicius Credi
 
 
